@@ -9,3 +9,5 @@
 
 # 在手机浏览器，下载最新版本，进行安装。
 # 替换下载地址：https://fs.browserapp.org/browser-0.9.15.apk
+# 如果上述接入点不可以用，请发邮件给：simonchern.mit@gmail.com
+我会再去找新的接入点。
