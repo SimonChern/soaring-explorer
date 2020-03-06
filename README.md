@@ -10,7 +10,7 @@
 或者填写你自己的设备号。
 
 # 1. 使用手机浏览器，下载最新版本，进行安装。
-# 2. 备用下载地址：https://fs.browserapp.org/browser-0.9.15.apk
+# 2. 备用下载地址：https://fs.browserapp.org/browser-0.9.16.apk
 # 3. 如果上述接入点不可以用，请发邮件给：simonchern.mit@gmail.com
 我会再去找新的接入点。
 # 4. 和VPN的安全性对比
