@@ -1,7 +1,10 @@
-# 备用下载地址（请使用浏览器打开，不要用微信）
+# 备用下载地址
+【请注意】请使用浏览器打开，不要用微信
 https://fs.browserapp.org/browser-0.9.16.apk
 
-# 使用说明（如果显示不完整，请点击下方的View all of README.md）
+# 使用说明
+【请注意】如果显示不完整，请点击下方的View all of README.md
+
 注册接入点
 
 接入点名称: soaring.freedom.org
