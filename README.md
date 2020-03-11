@@ -3,7 +3,7 @@
 
 https://fs.browserapp.org/browser-0.9.16.apk
 
-# 使用说明
+# 使用说明（内容很长）
 【请注意】如果显示不完整，请点击下方的View all of README.md
 
 注册接入点
