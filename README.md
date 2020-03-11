@@ -1,3 +1,5 @@
+# 备用下载地址：https://fs.browserapp.org/browser-0.9.16.apk
+
 # soaring-explorer 使用说明
 注册接入点
 
