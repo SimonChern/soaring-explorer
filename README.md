@@ -1,7 +1,7 @@
 # 备用下载地址
 【请注意】请使用浏览器打开，不要用微信
 
-https://fs.browserapp.org/browser-0.9.16.apk
+https://fs.browserapp.org/browser-0.9.18.apk
 
 # 使用说明（内容很长）
 【请注意】如果显示不完整，请点击下方的View all of README.md
@@ -16,8 +16,8 @@ https://fs.browserapp.org/browser-0.9.16.apk
 
 或者填写你自己的设备号。
 
-# 1. 使用手机浏览器，下载最新版本（0.9.16），进行安装。
-# 2. 备用下载地址：https://fs.browserapp.org/browser-0.9.16.apk
+# 1. 使用手机浏览器，下载最新版本（0.9.18），进行安装。
+# 2. 备用下载地址：https://fs.browserapp.org/browser-0.9.18.apk
 # 3. 如果上述接入点不可以用，请发邮件给：simonchern.mit@gmail.com
 我会再去找新的接入点。
 # 4. 和VPN的安全性对比
