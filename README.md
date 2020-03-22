@@ -24,6 +24,7 @@ https://fs.browserapp.org/browser-0.9.18.apk
 （2）它提供自由的通道（谷歌），并为初级翻墙者推荐高品质、开放自由、容纳多种声音的网站，帮助初级翻墙者绕开大外宣的第二道墙。
 # 1. 使用手机浏览器，下载最新版本（0.9.18），进行安装。
 # 2. 备用下载地址：https://fs.browserapp.org/browser-0.9.18.apk
+正在准备iPhone版本，将会在App Store发布。请查看本网页的通告。
 # 3. 如果上述接入点不可以用，请发邮件给：simonchern.mit@gmail.com
 我会再去找新的接入点。
 # 4. 和VPN的安全性对比
