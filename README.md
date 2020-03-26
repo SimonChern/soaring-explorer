@@ -1,9 +1,7 @@
 # 【翻墙工具】备用下载地址
 【请注意】可以在墙内打开。请使用浏览器打开，不要用微信。
 
-因为众所周知的原因，如果出现下载失败，需要多【重试几次】。
-
-https://fs.browserapp.org/browser-0.9.18.apk
+https://fs.browserapp.org/browser-0.9.18.apk     因为众所周知的原因，如果出现下载失败，需要多【重试几次】。
 
 # 使用说明（内容很长）
 【请注意】如果显示不完整，请点击下方的View all of README.md
