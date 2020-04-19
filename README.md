@@ -17,7 +17,7 @@ https://fs.browserapp.org/browser-0.9.20.apk     因为众所周知的原因，�
 或者填写你自己的设备号。
 
 # 0. 这是一份很严肃认真的软件：
-软件截图，请看这里：https://twitter.com/simonbrave1984/status/1239324652226269184
+软件截图，请看这里：https://twitter.com/simonbrave1984/status/1251785053102694401
 
 （1）安全性：可以避开手机上监控软件的监听，以及在地铁站等地方的人工检查。它申请的手机权限非常少，很安全。
 
